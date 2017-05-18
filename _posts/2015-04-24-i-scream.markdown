@@ -1,20 +1,32 @@
 ---
-title:  "I scream"
-subtitle: "But do you scream?"
-author: "Wferr"
+title:  "Within PokemonGo:"
+subtitle: "Revealing Go's Tips and Secrets"
+author: "Brandon Hartman"
 avatar: "img/authors/wferr.png"
 image: "img/e.jpg"
-date:   2015-04-24 12:12:12
+date:   2016-07-22 
 ---
 
-### Dolor sit amet?
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vestibulum non mi non pulvinar. Donec tempus risus vel ex fringilla tempor. Vivamus pharetra non mauris quis fermentum. Vestibulum sed maximus elit, sit amet suscipit orci. Morbi at enim at libero dignissim egestas vel ac nisi. Etiam at lectus a arcu sodales consequat. Aliquam consequat ligula sed purus tincidunt, a ultrices nibh dapibus. Phasellus convallis ipsum nec semper ultricies. In facilisis lacus velit, sit amet lacinia velit blandit id. Nullam ut magna erat. Aliquam sit amet dapibus odio, aliquet tempus tortor. Donec in nisi massa.
+With people playing nonstop since the release date on July 6th..Pokemon Go has "evolved" the mobile applications development with it's new augmented reality system. From catching Pokemon at local parks to catching them inside restrooms...Wait, what? That's a thing? Yes. Yes it is. Pokemon Go has developed quite the fan base over the last couple weeks from...well...EVERYWHERE. But you know that, right? Sure you do! You just posted about the servers being down! But we aren't here to talk about that! We are actually going to dive within Pokemon Go's Tips and Secrets!! So let's get started so you can go catch them all.
 
-### Aliquam suscipit.
-Cras eget nisl accumsan, porta nisl in, egestas sapien. Vestibulum gravida nulla sed facilisis tempor. Suspendisse maximus nisi sit amet velit sodales fringilla. Vivamus luctus risus eget dui consectetur porttitor. Maecenas ut ultrices orci. Maecenas mollis est eu sodales mollis. Nulla facilisi. Suspendisse eros arcu, elementum sed sem eu, pharetra rhoncus odio. Proin nec tincidunt velit. Cras nisl augue, faucibus sed mauris in, vestibulum mollis nisl. Nam id libero ultrices, consequat ex vitae, convallis nulla.
+### Catching Pikachu Right Away
 
-Suspendisse lorem odio, blandit at nisl quis, hendrerit tempus tellus. Donec eget leo quis nisi vulputate consectetur. Praesent dignissim enim elit, congue luctus nisl cursus at. Sed rutrum molestie risus. Donec vulputate gravida accumsan. Vivamus tempus ullamcorper eleifend. Sed sagittis mi ut dolor tincidunt, ac rutrum nisi commodo.
+One of the many secrets that Niantic did not mention was that the beloved Pokemon "Pikachu" can be caught at the beginning of the game. WHAT!? Everyone that's new to Pokemon is freaking out and screaming "I LOVE PIKACHU". Well...Simply because that was the only one they knew of....Once you start the game you realize that Bulbasaur, Charmander, and Squirtle appear and that you have to pick out of the three. WRONG! If you continue to walk away from the three starters and keep ignoring them that our beloved Pikachu will finally appear! Niantic has been extremely sneaky with their secrets. Let's hope they do not update this secret out!
 
-Fusce non elit in diam rutrum vestibulum. Donec vitae elementum erat. Praesent elementum eget justo at bibendum. Fusce interdum diam lorem, ut placerat elit pretium quis. Quisque eu urna at quam commodo sagittis. Etiam posuere convallis tincidunt. Phasellus vitae ligula neque. Vivamus a purus at dolor iaculis placerat. Curabitur convallis eu lacus congue sagittis.
+### Eevee's Evolution Secret
 
-Aliquam suscipit fermentum mauris a accumsan. In facilisis, mauris quis pulvinar tempus, turpis sapien sodales nibh, nec feugiat augue est quis nisi. Fusce eget odio feugiat, luctus quam et, dapibus nulla. Sed ornare lacus non libero lacinia pretium. In eu dui vitae purus euismod feugiat ac ac est. Morbi vitae pretium lorem, non eleifend felis. Nullam at massa feugiat, rutrum elit at, semper lacus. Etiam vel rutrum felis. Nullam quis auctor lorem, et tempor arcu.
+I love it when I train my Eevee all the way to 500 to come to the conclusion that I get my fourth Jolteon. I just wanted a stupid Vaporeon!! I literally watched my friend almost destroy his phone because he kept getting Flareon's. But fear not, there is a glitch in the matrix! You can rename your Eevee's to get the one you want...Wait, it's that simple... You mean to tell me that I struggled this much when I could just rename it...You win, Niantic. You can simply get the evolve form you want by renaming them "Pyro", "Sparky", or "Rainer". A nice little secret regarding the three Eevee trainers in the original Pokemon series. Well played, Niantic.
+
+### Professional Pitcher in the MLB
+
+Get ready to put some sunflower seeds in your mouth and put your favorite baseball cap on! Because you are about to throw a nasty curve ball on that Pigey. Before throwing it, rotate the ball in a circular motion to give it that slight curve to it! Now flick it out! Great job, you missed! Do not worry if you messed up because this takes quite a bit of practice but it is one hundred percent worth it. You attain additional experience and a higher chance to catch those rare Pokemon that you have been chasing all day. One more additional tip is to wait for the ring that pops up to shrink completely down before throwing it. The continuously moving ring will also be in different shades of colors. So don't forget to throw those berries to get the circle to green instead of red! 
+
+### The Lucky Egg
+
+You can attain these bad boys at the Poke Shop or getting past level 9! Lucky eggs will double your experience points for a solid thirty minutes! The best time to apply this charm is when you are about to evolve all of your recent Pokemon you just caught. Normally, you attain 500 experience points without the egg. With the egg, you get 1000 experience points! Not to even mention if you haven't caught that Pokemon yet! Catching new Pokemon attains 600 experience points without the egg. So begin applying those eggs and grind your way by evolving all those thousands of Pigey's.
+
+### What Team Should I Join?
+
+Congratulations! You made it to level 5 on Pokemon Go. This means you are ready to tackle your first gym leader and also decide which team you want to be on. These teams consist of Instinct, Valor and Mystic! So many choices, which one should I pick!? Well, Team Instinct is the only good choice! Unless you like extremely bad things...So go ahead and show your great taste in things and join Team Instinct today!
+
+That is a wrap on the Pokemon Go blog! I wanted to take the time saying "Thank you!" to everyone that supported my last blog. I did not realize that over two hundred people checked it out! Thank you so much and it truly means a lot.  I really enjoyed creating the Pokemon Go blog and I would love to hear from you all. Write in the comment section what Team you are on and what your strongest Pokemon are! (WHERE ARE MY TEAM INSTINCT AT!?) Are there any "Tips and Secrets" I do not know about? Let me know! If this turns out well..I will do another blog with five more!  Also, if you have a funny UserName that needs to spread across the internet..Let me know!! Most of my Co-Workers think it is funny to name their guy BrandonBlows and BrandonLicksButt. Don't forget to hit the like button and if you have a google account to join the community! I'll be seeing you within the next blog!
