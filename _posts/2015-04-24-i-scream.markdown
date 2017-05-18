@@ -3,7 +3,7 @@ title:  "Within PokemonGo:"
 subtitle: "Revealing Go's Tips and Secrets"
 author: "Brandon Hartman"
 avatar: "img/authors/wferr.png"
-image: "img/e.jpg"
+image: "img/e.png"
 date:   2016-07-22 
 ---
 
