@@ -1,6 +1,6 @@
 ---
 title:  "Within my first blog post!"
-subtitle: "WithinCode will be a blog that will mostly hold information towards what research I have made through my years at the University of Kentucky."
+subtitle: ""
 author: "Brandon Hartman"
 avatar: "img/authors/wferr.png"
 image: "img/f.jpg"
