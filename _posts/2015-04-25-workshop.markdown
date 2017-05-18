@@ -1,16 +1,18 @@
 ---
 title:  "Within my first blog post!"
-subtitle: ""
+subtitle: "WithinCode will be a blog that will mostly hold information towards what research I have made through my years at the University of Kentucky."
 author: "Brandon Hartman"
 avatar: "img/authors/wferr.png"
 image: "img/f.jpg"
 date:   2016-07-20 12:12:12
 ---
 
-After months of procrastination and telling myself that I can definitely build this blog tomorrow…Here it is! Wanting to start WithinCode sparked a huge interest of mine a few months back while I was researching ways to become a better Computer Science student. I just recently got accepted to the University of Kentucky and will be attending this fall and to be honest..I am extremely nervous about the whole going back to college ordeal. Hence, the researching for advice and tips for students studying Computer Science.
 
-While researching, I noticed patterns within these recent students and developers. Every single one of them talked about how the student should start a blog and write about what information they are attaining while attending these courses. After reading those articles, I started to realize the importance behind these blogs and is why it sparked such a huge interest towards this project of mine. But what is so important about a blog? It shows so many aspects within these students. How they think! How they attain information and determine the outcomes. But most importantly, it shows that they love what they are doing. That’s the most important part, right?
 
-WithinCode will be a blog that will mostly hold information towards what research I have made through my years at the University of Kentucky. That will be about ninety percent of my post. Now the other ten percent…Will be about ANYTHING. “Anything” meaning probably about recent books or video games that I am into.
+<p>After months of procrastination and telling myself that I can definitely build this blog tomorrow…Here it is! Wanting to start WithinCode sparked a huge interest of mine a few months back while I was researching ways to become a better Computer Science student. I just recently got accepted to the University of Kentucky and will be attending this fall and to be honest..I am extremely nervous about the whole going back to college ordeal. Hence, the researching for advice and tips for students studying Computer Science.</p>
 
-That’s a wrap on the first blog! I’m extremely excited about this new project of mine and cannot wait to see what it becomes of it. If you want to tag along in this journey..Please write something in the comments or hit the subscribe button. I'll be seeing you within the next blog!
+<p>While researching, I noticed patterns within these recent students and developers. Every single one of them talked about how the student should start a blog and write about what information they are attaining while attending these courses. After reading those articles, I started to realize the importance behind these blogs and is why it sparked such a huge interest towards this project of mine. But what is so important about a blog? It shows so many aspects within these students. How they think! How they attain information and determine the outcomes. But most importantly, it shows that they love what they are doing. That’s the most important part, right?</p>
+
+<p>WithinCode will be a blog that will mostly hold information towards what research I have made through my years at the University of Kentucky. That will be about ninety percent of my post. Now the other ten percent…Will be about ANYTHING. “Anything” meaning probably about recent books or video games that I am into.</p>
+
+<p>That’s a wrap on the first blog! I’m extremely excited about this new project of mine and cannot wait to see what it becomes of it. If you want to tag along in this journey..Please write something in the comments or hit the subscribe button. I'll be seeing you within the next blog!</p>
