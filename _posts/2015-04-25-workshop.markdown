@@ -2,7 +2,7 @@
 title:  "Within my first blog post!"
 subtitle: ""
 author: "Brandon Hartman"
-avatar: "img/authors/wferr.png"
+avatar: "img/authors/me.jpg"
 image: "img/first.jpg"
 date:   2016-07-20 12:12:12
 ---
